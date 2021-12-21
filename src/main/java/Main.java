@@ -11,7 +11,7 @@ public class Main {
         System.out.println(FlattingTask.flattingStrings(Arrays.asList("abc", "def", "ghj")));
 
         System.out.println(FizzBuzzTask.fizzBuzzIt(10));
-        
+
         System.out.println(GroupWordsTask.groupIt(Arrays.asList("ABCA", "BCD", "ABC")));
 
     }
